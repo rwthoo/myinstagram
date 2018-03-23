@@ -1,0 +1,14 @@
+.post {
+  border: 1px solid grey;
+  border-radius: 10px;
+  width:100%;
+}
+.post_header,.post_comments{
+  padding: 20px 0px 0px 5px;
+
+}
+.post_img{
+  width:100%;
+  height:auto;
+
+}
